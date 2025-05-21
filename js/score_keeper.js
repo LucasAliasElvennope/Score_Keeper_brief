@@ -30,5 +30,7 @@ player2Btn.addEventListener("click", function() {
 resetBtn.addEventListener("click", function() {
     scoreTeam1 = 0;
     scoreTeam2 = 0;
+    scoreTeam1Afficher.textContent = scoreTeam1;
+    scoreTeam2Afficher.textContent = scoreTeam2;
 }
     
