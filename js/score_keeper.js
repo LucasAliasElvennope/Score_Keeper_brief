@@ -18,3 +18,6 @@ player1Btn.addEventListener("click", function() {
     }
 });
     
+player2Btn.addEventListener("click", function() {
+}
+    
