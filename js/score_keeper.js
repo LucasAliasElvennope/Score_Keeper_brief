@@ -32,5 +32,4 @@ resetBtn.addEventListener("click", function() {
     scoreTeam2 = 0;
     scoreTeam1Afficher.textContent = scoreTeam1;
     scoreTeam2Afficher.textContent = scoreTeam2;
-}
-    
+});
