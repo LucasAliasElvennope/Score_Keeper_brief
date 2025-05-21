@@ -28,5 +28,7 @@ player2Btn.addEventListener("click", function() {
 });
 
 resetBtn.addEventListener("click", function() {
+    scoreTeam1 = 0;
+    scoreTeam2 = 0;
 }
     
