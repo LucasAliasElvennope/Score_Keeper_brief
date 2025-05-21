@@ -1,12 +1,19 @@
 body {
-    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    max-height: 100vh;
     margin: 0;
-    padding: 0;
-    background-color: #f1f1f1;
+    padding: 0; 
 }
 
-/// Styles applied to the main content area of the page.
-/// Adds padding to separate the content from the edges.
 main {
     padding: 1rem;
+    height: 100vh; 
+    background-color: #969696;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
 }
