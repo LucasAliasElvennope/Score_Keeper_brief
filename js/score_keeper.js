@@ -6,6 +6,8 @@ const scoreTeam2 = document.getElementById("scoreTeam2");
 const scoreMaxAfficher = document.getElementById("scoreMaxAfficher");
 let scoreMax = 5;
 let scoreTeam1 = 0;
+let scoreTeam2 = 0;
+
 
 
 
