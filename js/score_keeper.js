@@ -11,5 +11,6 @@ let scoreTeam2 = 0;
 
 player1Btn.addEventListener("click", function() {
     scoreTeam1++;
+    scoreTeam1Afficher.textContent = scoreTeam1;
 }
     
