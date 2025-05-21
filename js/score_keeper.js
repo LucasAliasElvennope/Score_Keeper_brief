@@ -12,5 +12,9 @@ let scoreTeam2 = 0;
 player1Btn.addEventListener("click", function() {
     scoreTeam1++;
     scoreTeam1Afficher.textContent = scoreTeam1;
-}
+    if (scoreTeam1 === scoreMax) {
+        alert("Team 1 a gagné!");
+        return;
+    }
+});
     
