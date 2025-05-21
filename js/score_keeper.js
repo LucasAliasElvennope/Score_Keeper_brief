@@ -10,5 +10,6 @@ let scoreTeam1 = 0;
 let scoreTeam2 = 0;
 
 player1Btn.addEventListener("click", function() {
+    scoreTeam1++;
 }
     
