@@ -16,6 +16,10 @@ player1Btn.addEventListener("click", function() {
         alert("Team 1 a gagné!");
         return;
     }
+    if (scoreTeam1 === 69) {
+        alert("Toi t'es un beauf !");
+        return;
+    }
 });
     
 player2Btn.addEventListener("click", function() {
@@ -23,6 +27,10 @@ player2Btn.addEventListener("click", function() {
     scoreTeam2Afficher.textContent = scoreTeam2;
     if (scoreTeam2 === scoreMax) {
         alert("Team 2 a gagné!");
+        return;
+    }
+    if (scoreTeam2 === 69) {
+        alert("Toi t'es un beauf !");
         return;
     }
 });
