@@ -26,4 +26,7 @@ player2Btn.addEventListener("click", function() {
         return;
     }
 });
+
+resetBtn.addEventListener("click", function() {
+}
     
