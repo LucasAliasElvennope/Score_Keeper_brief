@@ -9,9 +9,6 @@ let scoreMax = 5;
 let scoreTeam1 = 0;
 let scoreTeam2 = 0;
 
-
-
-
-
-
-
+player1Btn.addEventListener("click", function() {
+}
+    
