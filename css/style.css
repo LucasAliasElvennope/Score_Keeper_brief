@@ -18,15 +18,23 @@ main {
   text-align: center;
 }
 
+#team1 {
+  color: hsl(230, 100%, 61%);
+}
+
+#team2 {
+  color: hsl(290, 100%, 69%);
+}
+
 #header {
-  background-color: #333;
+  background-color: #1f1f1f;
   color: #fff;
   padding: 1rem;
   text-align: center;
 }
 
 #footer {
-  background-color: #333;
+  background-color: #1f1f1f;
   color: #fff;
   padding: 1rem;
   text-align: center;
