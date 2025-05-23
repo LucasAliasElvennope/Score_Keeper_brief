@@ -27,7 +27,7 @@ Fini les disputes : garde une trace claire des points ! 😄
 1. Clone le repo :
 
 ```bash
-git clone https://github.com/ton-pseudo/score-keeper.git
+git clone https://github.com/LucasAliasElvennope/Score_Keeper_brief/tree/main
 ```
 
 2. Ouvre le fichier `index.html` dans ton navigateur préféré 🌐
